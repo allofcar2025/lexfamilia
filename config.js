@@ -3,7 +3,7 @@
 // Obtén tu clave gratis en: console.groq.com → API Keys
 
 const CONFIG = {
-    GROQ_API_KEY: "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",
+    GROQ_API_KEY: "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",
     GROQ_MODEL:   "llama-3.3-70b-versatile",
     MAX_TOKENS:   4000,
 };
